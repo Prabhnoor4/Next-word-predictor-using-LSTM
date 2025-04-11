@@ -1,0 +1,1 @@
+In this project we will guess the new word using the LSTM model.
